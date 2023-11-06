@@ -1,0 +1,29 @@
+C:\Users\Lenovo\Desktop\DS\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP_Protocol.Client.resources
+C:\Users\Lenovo\Desktop\DS\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP_Protocol.Form1.resources
+C:\Users\Lenovo\Desktop\DS\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP_Protocol.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\DS\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP Protocol.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\DS\TCP Protocol\TCP Protocol\bin\Debug\TCP Protocol.exe
+C:\Users\Lenovo\Desktop\DS\TCP Protocol\TCP Protocol\bin\Debug\TCP Protocol.pdb
+C:\Users\Lenovo\Desktop\DS\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP Protocol.exe
+C:\Users\Lenovo\Desktop\DS\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP Protocol.pdb
+C:\Users\Lenovo\Desktop\DS\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP Protocol.csprojResolveAssemblyReference.cache
+D:\University\2023-2022\Labs\Distributed Systems\TCP Protocol\TCP Protocol\TCP Protocol\bin\Debug\TCP Protocol.exe
+D:\University\2023-2022\Labs\Distributed Systems\TCP Protocol\TCP Protocol\TCP Protocol\bin\Debug\TCP Protocol.pdb
+D:\University\2023-2022\Labs\Distributed Systems\TCP Protocol\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP Protocol.csproj.AssemblyReference.cache
+D:\University\2023-2022\Labs\Distributed Systems\TCP Protocol\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP_Protocol.Client.resources
+D:\University\2023-2022\Labs\Distributed Systems\TCP Protocol\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP_Protocol.Form1.resources
+D:\University\2023-2022\Labs\Distributed Systems\TCP Protocol\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP_Protocol.Properties.Resources.resources
+D:\University\2023-2022\Labs\Distributed Systems\TCP Protocol\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP Protocol.csproj.GenerateResource.cache
+D:\University\2023-2022\Labs\Distributed Systems\TCP Protocol\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP Protocol.csproj.CoreCompileInputs.cache
+D:\University\2023-2022\Labs\Distributed Systems\TCP Protocol\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP Protocol.exe
+D:\University\2023-2022\Labs\Distributed Systems\TCP Protocol\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP Protocol.pdb
+C:\Users\waleedsalaheldin\Documents\TCP Protocol\TCP Protocol\bin\Debug\TCP Protocol.exe
+C:\Users\waleedsalaheldin\Documents\TCP Protocol\TCP Protocol\bin\Debug\TCP Protocol.pdb
+C:\Users\waleedsalaheldin\Documents\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP Protocol.csproj.AssemblyReference.cache
+C:\Users\waleedsalaheldin\Documents\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP_Protocol.Client.resources
+C:\Users\waleedsalaheldin\Documents\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP_Protocol.Form1.resources
+C:\Users\waleedsalaheldin\Documents\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP_Protocol.Properties.Resources.resources
+C:\Users\waleedsalaheldin\Documents\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP Protocol.csproj.GenerateResource.cache
+C:\Users\waleedsalaheldin\Documents\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP Protocol.csproj.CoreCompileInputs.cache
+C:\Users\waleedsalaheldin\Documents\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP Protocol.exe
+C:\Users\waleedsalaheldin\Documents\TCP Protocol\TCP Protocol\obj\x86\Debug\TCP Protocol.pdb
